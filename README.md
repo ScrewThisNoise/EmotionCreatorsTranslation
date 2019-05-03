@@ -1,6 +1,6 @@
 # EmotionCreators English Translation
 
-This is an English-language translation of the Illusion eroge EmotionCreators By making use of [BepInEx v5.x](https://github.com/BepInEx/BepInEx) and [AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator), the translation does not need to overwrite any game files and is easily modified. This translation is based on English translation for Koikatu! which is Illusion's previous game.
+This is an English-language translation of the Illusion eroge EmotionCreators. By making use of [BepInEx v5.x](https://github.com/BepInEx/BepInEx) and [AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator), the translation does not need to overwrite any game files and is easily modified. This translation is based on English translation for Koikatu! which is Illusion's previous game.
 
 This is a work in progress.
 
