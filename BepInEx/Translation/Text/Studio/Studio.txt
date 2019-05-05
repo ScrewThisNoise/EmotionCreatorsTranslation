@@ -1675,7 +1675,7 @@ r:"^教室([0-9])-([0-9])$"=r:"Classroom $1-$2"
 アニメ=Animations
 ボイス=Voice
 衣装=Clothing
-関節補正=Joint Adjustment
+関節補正=Joint Adjust
 
 //
 // Animation Menu -> Current State
@@ -1683,7 +1683,7 @@ r:"^教室([0-9])-([0-9])$"=r:"Classroom $1-$2"
 
 服装=Clothing Menu
 タイプ=Type
-一括=Set All
+一括=All
 
 // Animation Menu -> Current State -> Clothing Settings
 トップ=Top
@@ -1743,12 +1743,12 @@ IK=IK
 スカート=Skirt
 
 // Animation Menu -> Kinematics -> Inverse Kinematics
-一括=Set All
+一括=All
 体=Body
-右手=Right Hand
-左手=Left Hand
-右足=Right Foot
-左足=Left Foot
+右手=R Hand
+左手=L Hand
+右足=R Foot
+左足=L Foot
 
 // Animation Menu -> Kinematics -> Eyebrows / Eyes / Mouth
 種類=Pattern
@@ -2054,11 +2054,11 @@ orz=orz
 //Standing
 仰向け=Looking Upward
 四つん這い=Hands & Knees
-椅子座り=Sitting In Chair
-椅子バック=Doggystyle Against Chair
-机バック=Doggystyle Against Desk
-壁バック=Doggystyle Against Wall
-机座り=Sitting Om Desk
+椅子座り=In Chair
+椅子バック=Doggy Against Chair
+机バック=Doggy Against Desk
+壁バック=Doggy Against Wall
+机座り=Sitting On Desk
 机しゃがみ=Squatting On Desk
 本棚=At Bookshelves
 いたずら=Molesting

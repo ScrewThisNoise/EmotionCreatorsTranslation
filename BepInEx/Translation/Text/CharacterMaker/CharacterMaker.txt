@@ -30,7 +30,7 @@
 驚き=Surprised
 
 // Used in Eye/Head Tracking right sidebar options
-カメラ=At Camera
+カメラ=Camera
 上=Upward
 左上=Up and Left
 左=Left
@@ -235,7 +235,7 @@ r:"^タイプ([０-９0-9]+)$"=r:"Type $1" // Behold, the power of RegEx! 78 lin
 
 // Right Sidebar -> Head Direction Selections
 首の向き調整=Head Adjustment Tuning
-アニメ=From Animation
+アニメ=Animation
 
 // Right Sidebar -> Pose Selections
 基本=Basic
@@ -629,14 +629,14 @@ r:"^ボディーペイント(０[０-９])の種類$"=r:"Body Paint $1 Selection
 左脚=Front Of Left Leg
 右スネ=Right Shin
 左スネ=Left Shin
-右足=Right Foot
-左足=Left Foot
+右足=R Foot
+左足=L Foot
 左尻=Left Buttcheek
 右尻=Right Buttcheek
 左肩=Left Upper Arm
-左腕=Left Forearm
+左腕=L Fore
 右肩=Right Upper Arm
-右腕=Right Forearm
+右腕=R Fore
 
 //
 // Hair Menu
@@ -1493,23 +1493,23 @@ r:"^拡縮 ([Ａ-Ｚ])$"=r:"$1 Scale"
 右足首=Right Ankle
 かかと右=Right Heel
 ---------------------- 腕 ----------------------=---------------------- Arms ------------------------
-左肩=L. Shoulder
-左上腕=Left Upper Arm
-左ひじ=Left Elbow
-左手首=Left Wrist
-右肩=R. Shoulder
-右上腕=Right Upper Arm
-右ひじ=Right Elbow
-右手首=Right Wrist
+左肩=L Shldr
+左上腕=L Upper Arm
+左ひじ=L Elbow
+左手首=L Wrist
+右肩=R Shldr
+右上腕=R Upper Arm
+右ひじ=R Elbow
+右手首=R Wrist
 ---------------------- 手 ----------------------=---------------------- Hands ----------------------
-左手=Left Hand
-左人差指=L. Index Finger
-左中指=L. Mid Finger
-左薬指=L. Ring Finger
-右手=Right Hand
-右人差指=R. Index Finger
-右中指=R. Mid Finger
-右薬指=R. Ring Finger
+左手=L Hand
+左人差指=L Index Finger
+左中指=L Mid Finger
+左薬指=L Ring Finger
+右手=R Hand
+右人差指=R Index Finger
+右中指=R Mid Finger
+右薬指=R Ring Finger
 --------------------- 股間 ---------------------=--------------------- Crotch ---------------------
 男根根本=Penis
 女性器=Vagina
@@ -2072,7 +2072,7 @@ AB=AB
 服読込み=Load Clothing
 服の保存と削除=Save/Delete Clothing
 // This label gets applied over the one below it if F10 refreshed
-コンフィグ=Configuration
+コンフィグ=Settings
 表現方法=Lighting Settings
 
 // File Menu -> Load Character
