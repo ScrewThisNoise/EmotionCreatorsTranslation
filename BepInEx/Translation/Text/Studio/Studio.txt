@@ -23,7 +23,7 @@ r:"^ポイント([0-9]+)$"=r:"Point $1"
 ルート設定=Route Settings
 ルートコントローラー=Route Controller
 //Name
-追加=Add Point
+追加=Add
 向き補正=Correct Aim
 //Loop
 ライン描画=Motion Line
@@ -197,7 +197,7 @@ r:"^([Ａ-Ｚ])回転$"=r:"$1 Rot."
 //
 // Map Controller
 //
-位置=Location
+位置=Move
 //Horiz.
 //Vert.
 時間帯=Time Of Day
@@ -1738,8 +1738,8 @@ IK=IK
 首=Neck
 胸=Chest
 体=Body
-右手=Right Hand
-左手=Left Hand
+右手=R Hand
+左手=L Hand
 スカート=Skirt
 
 // Animation Menu -> Kinematics -> Inverse Kinematics
@@ -2127,7 +2127,7 @@ orz=orz
 絶頂前ループ=Before Climax Loop
 外出し開始=Come Outside Start
 外出しループ=Come Outside Loop
-外出し事後=Come Outside End
+外出し事後=After Coming Outside
 中出し開始=Come Inside Start
 中出しループ=Come Inside Loop
 口内待機IN=Come In Mouth
@@ -2225,7 +2225,7 @@ orz=orz
 //Fast Loop
 //Before Climax Loop
 絶頂=Climax
-絶頂事後=Climax End
+絶頂事後=After Climax
 //Afterglow
 ループIN=Loop Start
 ループ=Loop
