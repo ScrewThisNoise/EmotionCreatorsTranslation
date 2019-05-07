@@ -53,9 +53,11 @@ H段階=H-Level
 
 //Time Settings
 時間帯=Time Of Day
-昼=Daytime
-夕方=Evening
-夜=Night
+// day / evening / night, doesn't fit anything more than 1 character
+昼=M
+夕方=E
+夕=E
+夜=N
 
 // Masturbation Mode Only
 発見=Discovery

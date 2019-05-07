@@ -1173,7 +1173,8 @@ IK個別=IK
 // end condition window
 黒=Black
 白=White
-パートの終了条件を設定=End condition of the node
+パートの終了条件を設定=Configure end conditions
+パートの終了条件の確認=Configure end conditions
 フェードタイプ=Fade type
 フェード時間=Fade time
 使用しない=Not used

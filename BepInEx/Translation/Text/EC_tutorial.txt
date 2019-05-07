@@ -94,9 +94,8 @@
 【チャート作成】は、始めに先程までに作ったキャラクターやマップを登録し、いわゆる「お話の流れ」を作成していく場となっております。=[Chart Creation] is a place where you can register the characters and maps you made earlier and create the so-called "flow of story".
 そしてお話である以上、始まりと終わりがないとお話として成立がしません。=Since it's a story, it can't be really be called one if it doesn't have a beginning and an end.
 その為、こちらの画面でお話の流れや構成を作って頂く形になります。=Therefore, you can edit the flow and composition of the story on this screen.
-F3でクリエイターズガイドへ=Creator's Guide with F3
-パートの終了条件の確認=Configure node end condition
-「」を選択=""choose
+F3でクリエイターズガイドへ=Press F3 to open the guide
+「」を選択=Choose ""
 【チャート作成】の説明は以上となります。=The rough explanation of 【Create chart】 can be seen above.
 そしてチャートはあくまで「流れ」でしかありませんので、ここからは実際の中身の作成に触れていきます。=And since the structure is basically just a "flowchart", I'll talk about the creation of the actual contents from here.
 まずは【ADV作成】からです。=First of all, select [Create ADV]

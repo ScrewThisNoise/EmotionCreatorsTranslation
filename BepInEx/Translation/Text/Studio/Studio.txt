@@ -1329,7 +1329,7 @@ r:"^付け毛([0-9][0-9])$"=r:"Hairpiece $1"
 //
 
 吹き出し=Speech Balloons
-画面効果=Scene Effects
+画面効果=Effects
 
 // Add -> Items -> 2D Effects -> Speech Balloons
 // Thanks for doing #1 as a fullwidth numeral and everything else as halfwidth, Illusion
@@ -2553,10 +2553,6 @@ illusion文字のみ 黒=Word: Illusion (Black)
 アウトラインの幅=Outline Thickness
 全体の陰影の色=Overall Shadow Color
 
-// System Menu -> Scene Effects -> Color Adjustment -> Shade Dropdown List
-昼=Midday
-夕=Evening
-夜=Night
 //Live Concert Stage
 ビビッド=Vivid
 ノスタルジー=Nostalgia

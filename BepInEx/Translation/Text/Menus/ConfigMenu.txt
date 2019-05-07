@@ -209,7 +209,7 @@ AI:主人公へ話しかけに来る行動の発生頻度(※4)=AI: Frequency of
 ※5　マップ選択デートが追加される前のデートイベントを見ることが出来ます。="※5 You can see the old date events, from before when\n　　the additional maps were added."
 
 // Button along the bottom
-初期化=Defaults
+初期化=Reset
 タイトル=Title
 ゲーム終了=Quit Game
 //Back

@@ -1396,7 +1396,7 @@ r:"^パーツ([A-Z])$"=r:"Part $1"
 // Slot Lists
 // Illusion was extra fucking derpy and cannot into numbers - yes, there's various cases where they mixed fullwidth and halfwidth numbers
 r:"^スロット([０-９0-9][０-９0-9])$"=r:"Slot $1"
-入れ替え=Transfer
+入れ替え=Change
 
 // Slot Type Labels
 髪=Hair
