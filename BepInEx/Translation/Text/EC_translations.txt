@@ -2307,3 +2307,9 @@ BGM選択=BGM selection
 短い喘ぎ（奉仕）・口塞ぎ９=Short pant (service), mouth closing 9
 短い喘ぎ（奉仕）・口塞ぎ８=Short pant (service), mouth closing 8
 短い喘ぎ（奉仕）・口塞ぎ７=Short pant (service), mouth closing 7
+
+// misc
+あとで=Later
+終わり=The end
+「ADV」を選択=Select "ADV"
+夜の公園=Night park
