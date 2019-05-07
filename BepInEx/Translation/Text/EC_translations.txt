@@ -883,29 +883,36 @@ IK個別=IK
 // h pose creation
 つま先　右=Toe right
 つま先　左=Toe left
-セリフ=Words
-閉=Closed
-速い=Fast
-開=Open
-嬉しいＳ=Happy S
 音声セット=Voice set
-待機 or 遅い=Wait or slow
-嬉しいＳＳ=Nice SS
-ドキドキＳ=Pounding S
-ドキドキＳＳＳ=Pounding SSS
-驚きＳ=Surprise S
-正面=Forwards
+セリフ=Words
 リスト=Voice List
+待機 or 遅い=Wait or slow
+正面=Forwards
+速い=Fast
+閉=Closed
+開=Open
+ドキドキＳ=Pounding S
+ドキドキＳＳ=Pounding SS
+ドキドキＳＳＳ=Pounding SSS
+嬉しいＳ=Happy S
+嬉しいＳＳ=Happy SS
+嬉しいＳＳＳ=Happy SSS
+嬉しいＳ=Nice S
+嬉しいＳＳ=Nice SS
+嬉しいＳＳＳ=Nice SSS
+驚きＳ=Surprise S
+驚きＳＳ=Surprise SS
+驚きＳＳＳ=Surprise SSS
 
 // F3 menu
-キャラメイク=Character
-マップメイク=Map makeup
-ADV作成=Create ADV
-チャート作成=Chart creation
-モーション作成=Motion creation
-ポーズメイク=Pose makeup
-プレイモード=Play mode
-エッチ作成=Etch creation
+キャラメイク=Chara Maker
+マップメイク=Map Maker
+ポーズメイク=Pose Maker
+チャート作成=Scene Maker
+ADV作成=ADV Nodes
+エッチ作成=H Nodes
+モーション作成=H Animations
+プレイモード=Play Mode
 
 // tutorial scene
 BGM選択=BGM selection
