@@ -640,6 +640,37 @@ BGM選択\n=BGM selection\n
 名前順=By name
 リセット=Reset
 
+服装切り替えを無視する=Ignore clothes switching
+コーディネート名=Clothing Set Name
+コーディネート=Clothing
+口音\n=Buzz\n
+維 持=Maintenance
+名前名前=Name name
+選 択=Choice
+音声の設定=Voice settings
+コーディネート設定=Coordinate setting
+コーディネートの設定=Coordinate setting
+遅い=Slow
+腰中1=In the waist 1
+腰中2=In the waist 2
+腰下2=Lower waist 2
+左腿2=Left thigh 2
+右腿2=Right thigh 2
+左脛1=Left shin 1
+左脛2=Left shin 2
+右脛1=Right shin 1
+右脛2=Right shin 2
+腰上1=Waist high 1
+腰上２=Upper waist 2
+上半身1=Upper body 1
+上半身2=Upper body 2
+胸元=Chest
+左胸=left chest
+右胸=Right chest
+頭1=Head 1
+頭2=Head 2
+えっ？=Eh?
+
 // text editor 
 フォント１=Font 1
 フォント２=Font 2

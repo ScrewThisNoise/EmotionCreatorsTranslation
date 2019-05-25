@@ -85,14 +85,14 @@ r:"^ポイント([0-9]+)$"=r:"Point $1"
 部位 : 腰後ろ=Part: Rear Of Waist
 部位 : 腰左=Part: Left Waist
 部位 : 腰右=Part: Right Waist
-部位 : 左太もも=Part: Left Thigh
-部位 : 左ひざ=Part: Left Knee
-部位 : 左足首=Part: Left Ankle
-部位 : かかと左=Part: Left Heel
-部位 : 右太もも=Part: Right Thigh
-部位 : 右ひざ=Part: Right Knee
-部位 : 右足首=Part: Right Ankle
-部位 : かかと右=Part: Right Heel
+部位 : 左太もも=Part: L Thigh
+部位 : 左ひざ=Part: L Knee
+部位 : 左足首=Part: L Ankle
+部位 : かかと左=Part: L Heel
+部位 : 右太もも=Part: R Thigh
+部位 : 右ひざ=Part: R Knee
+部位 : 右足首=Part: R Ankle
+部位 : かかと右=Part: R Heel
 部位 : 左肩=Part: Left Shoulder
 部位 : 左上腕=Part: Left Upper Arm
 部位 : 左ひじ=Part: Left Elbow
@@ -2381,8 +2381,8 @@ r:"^着替え([0-9])$"=r:"Changing $1"
 //Left Foot
 左前腕部=Left Forearm Group
 右前腕部=Right Forearm Group
-右太もも=Right Thigh
-左太もも=Left Thigh
+右太もも=R Thigh
+左太もも=L Thigh
 
 //
 // Animation Menu -> Item Animation
