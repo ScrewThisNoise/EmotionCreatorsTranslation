@@ -15,3 +15,4 @@ If you're interested in helping out to speed up or improve this translation, you
 - *flonne* - Tutorial scene translation (click "Tutorial" in main menu)
 - *GeBo* - Regexes, parts of UI
 - *Omega* - MEN in the bedroom
+- *ScrewThisNoise* - DemoScene Translations
